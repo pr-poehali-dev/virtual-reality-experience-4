@@ -75,25 +75,7 @@ export function Philosophy() {
               </p>
             </div>
 
-            {/* Stats */}
-            <div
-              className={`grid grid-cols-3 gap-8 mt-12 pt-12 border-t border-border transition-all duration-1000 delay-700 ${
-                isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-              }`}
-            >
-              <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">7</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет в моде</p>
-              </div>
-              <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">200+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Изделий</p>
-              </div>
-              <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">100%</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Ручная работа</p>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
