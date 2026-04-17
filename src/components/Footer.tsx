@@ -40,7 +40,7 @@ export function Footer() {
               <a href="#" className="text-sm text-foreground hover:text-sage transition-colors">
                 Pinterest
               </a>
-              <a href="#" className="text-sm text-foreground hover:text-sage transition-colors">
+              <a href="https://t.me/odjakcssudusbs" target="_blank" rel="noopener noreferrer" className="text-sm text-foreground hover:text-sage transition-colors">
                 Telegram
               </a>
             </nav>

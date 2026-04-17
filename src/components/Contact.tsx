@@ -68,9 +68,9 @@ export function Contact() {
               }`}
             >
               <div>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mb-2">Почта</p>
-                <a href="mailto:hello@example.com" className="text-foreground hover:text-sage transition-colors">
-                  hello@example.com
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mb-2">Telegram</p>
+                <a href="https://t.me/odjakcssudusbs" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-sage transition-colors">
+                  @odjakcssudusbs
                 </a>
               </div>
               <div>
