@@ -69,7 +69,7 @@ export function Contact() {
           </a>
           <div className="text-sm text-muted-foreground">
             <span className="text-xs tracking-widest uppercase block mb-1">Локация</span>
-            Студия, Москва
+            Студия, Ростов-на-Дону
           </div>
         </div>
       </div>
