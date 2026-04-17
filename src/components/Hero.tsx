@@ -51,7 +51,7 @@ export function Hero() {
             href="#contact"
             className="group inline-flex items-center gap-3 px-8 py-4 bg-sage text-primary-foreground text-sm tracking-widest uppercase hover:bg-sage/90 transition-all duration-500"
           >
-            Записаться на примерку
+            Написать нам
             <svg
               className="w-4 h-4 transition-transform duration-500 group-hover:translate-x-1"
               fill="none"

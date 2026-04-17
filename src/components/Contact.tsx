@@ -51,7 +51,7 @@ export function Contact() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Запишитесь на примерку
+              Напишите нам
             </h2>
             <p
               className={`text-muted-foreground leading-relaxed mb-12 max-w-md transition-all duration-1000 delay-300 ${
