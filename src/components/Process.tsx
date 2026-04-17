@@ -55,13 +55,6 @@ export function Process() {
           {/* Left Column - Sticky Header */}
           <div className="lg:col-span-4">
             <div className="lg:sticky lg:top-32">
-              <p
-                className={`text-xs tracking-[0.3em] uppercase text-terracotta mb-6 transition-all duration-1000 ${
-                  isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
-                }`}
-              >
-                Наш процесс
-              </p>
               <h2
                 className={`font-serif text-4xl md:text-5xl font-light text-foreground mb-6 text-balance transition-all duration-1000 delay-200 ${
                   isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
